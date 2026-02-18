@@ -1,6 +1,6 @@
 baseURL = "https://coolshoppingone.github.io/"
 languageCode = "ko-kr"
-title = "coolshoppingone coolshoppingone 쇼핑 블로그"
+title = "coolshoppingone 쇼핑 블로그"
 theme = "PaperMod"
 
 enableRobotsTXT = true
