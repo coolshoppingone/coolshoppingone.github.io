@@ -10,3 +10,5 @@
 {{- with site.Params.yandexSiteVerification -}}
   {{- if ne . "" -}}<meta name="yandex-verification" content="{{ . }}">{{- end -}}
 {{- end -}}
+
+<link rel="stylesheet" href="{{ \"css/mobile-fix.css\" | relURL }}">

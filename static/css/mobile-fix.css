@@ -1,0 +1,40 @@
+@media (max-width: 768px) {
+  /* Many posts use a 2-column table layout (image | text). On mobile this becomes unreadably narrow.
+     Stack table cells vertically for better readability. */
+  .post-content table {
+    display: block;
+    width: 100%;
+    overflow: visible;
+  }
+
+  .post-content thead,
+  .post-content tbody,
+  .post-content tfoot,
+  .post-content tr {
+    display: block;
+    width: 100%;
+  }
+
+  .post-content th,
+  .post-content td {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .post-content img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* If inline HTML uses float-based layouts, disable floats on small screens. */
+  .post-content [style*="float:left"],
+  .post-content [style*="float: left"],
+  .post-content [style*="float:right"],
+  .post-content [style*="float: right"] {
+    float: none !important;
+    display: block !important;
+    width: auto !important;
+    max-width: 100% !important;
+  }
+}
