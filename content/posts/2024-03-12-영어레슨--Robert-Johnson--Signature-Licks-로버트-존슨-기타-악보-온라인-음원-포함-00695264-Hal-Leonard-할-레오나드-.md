@@ -1,11 +1,10 @@
 ---
-title: "영어레슨  [20~30대 남성추천]  Robert Johnson - Signature Licks 로버트 존슨 기타 악보 (온라인 음원 포함) [00695264] 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: '영어레슨  [20~30대 남성추천]  Robert Johnson - Signature Licks 로버트 존슨 기타 악보 (온라인 음원 포함) [00695264] 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-12
-slug: "영어레슨--Robert-Johnson--Signature-Licks-로버트-존슨-기타-악보-온라인-음원-포함-00695264-Hal-Leonard-할-레오나드-"
-author: Moon
+slug: '영어레슨--Robert-Johnson--Signature-Licks-로버트-존슨-기타-악보-온라인-음원-포함-00695264-Hal-Leonard-할-레오나드-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 영어레슨]
----
 
 **영어 실력 향상을 위한 완벽한 솔루션: 영어레슨**
 

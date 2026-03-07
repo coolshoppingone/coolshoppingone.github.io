@@ -1,11 +1,10 @@
 ---
-title: "리딩앤ort퓨처팩  [20~30대 남성추천]  [CompassPublishing]Reading Future Change 1 (4차 산업혁명 영어 읽기 : 리딩 퓨쳐),  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+title: '리딩앤ort퓨처팩  [20~30대 남성추천]  [CompassPublishing]Reading Future Change 1 (4차 산업혁명 영어 읽기 : 리딩 퓨쳐),  장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-03-12
-slug: "리딩앤ort퓨처팩--CompassPublishingReading-Future-Change-1-4차-산업혁명-영어-읽기--리딩-퓨쳐-CompassPublishing-"
-author: Moon
+slug: '리딩앤ort퓨처팩--CompassPublishingReading-Future-Change-1-4차-산업혁명-영어-읽기--리딩-퓨쳐-CompassPublishing-'
+author: 'Moon'
 categories: [shopping]
 tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 리딩앤ort퓨처팩]
----
 
 **리딩앤퓨처팩: 디지털 독서의 미래**
 
