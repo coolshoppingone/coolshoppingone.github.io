@@ -3,8 +3,9 @@ title: '보스니아화상영어  [20~30대 남성추천]  BOSE 사운드바 700
 date: 2024-03-12
 slug: '보스니아화상영어--BOSE-사운드바-700-블루투스-TV스피커--베이스-모듈-500--서라운드-스피커-Soundbar-700-Bass-Module-500-Surround-Speakers-'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, 보스니아화상영어]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '보스니아화상영어']
+---
 
 **보스니아화상영어로 영어를 확실히 마스터하세요!**
 

@@ -3,8 +3,9 @@ title: 'mbti카드  | MBTI 마음카드 : 욕구 바람카드 + 이미지카드 
 date: 2024-04-04
 slug: 'mbti카드--MBTI-마음카드--욕구-바람카드--이미지카드--MBTI-캐릭터-카드-100종-학교폭력예방회복적생활교육나전달법-비폭력대화또래상담'
 author: 'Moon'
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, mbti카드]
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', 'mbti카드']
+---
 
 ## MBTI 카드: 자신과 타인에 대한 통찰력 얻기
 

@@ -1,10 +1,10 @@
-﻿---
-title: "[아이피타임쇼핑몰]extender-a3mu와이파이무선확장기증폭기28900원  [30~40대 여성추천] ipTIME Extender-A6 무선확장기 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보"
+---
+title: '[아이피타임쇼핑몰]extender-a3mu와이파이무선확장기증폭기28900원  [30~40대 여성추천] ipTIME Extender-A6 무선확장기 장점 및 추천 제품 구매 가이드 할인 최저 가격 상품평 후기 자주 묻는 질문 상세정보'
 date: 2024-05-23
-slug: "아이피타임쇼핑몰extendera3mu와이파이무선확장기증폭기28900원-ipTIME-ExtenderA6-무선확장기"
-author: Moon
-categories: [shopping]
-tags: [Top10, shopping, 장점, 추천, 추천제품, 구매가이드, 할인, 최저가격, 상품평, 후기, [아이피타임쇼핑몰]extender-a3mu와이파이무선확장기증폭기28900원]
+slug: '아이피타임쇼핑몰extendera3mu와이파이무선확장기증폭기28900원-ipTIME-ExtenderA6-무선확장기'
+author: 'Moon'
+categories: ['shopping']
+tags: ['Top10', 'shopping', '장점', '추천', '추천제품', '구매가이드', '할인', '최저가격', '상품평', '후기', '[아이피타임쇼핑몰]extender-a3mu와이파이무선확장기증폭기28900원']
 ---
 
 <p data-nosnippet>💦 💦 💦 파트너스 활동을 통해 일정액의 수수료를 제공받습니다.</p>
